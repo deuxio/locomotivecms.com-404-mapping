@@ -1,4 +1,4 @@
-####Liste des pages sur lesquels pointent un lien et qui ont été coupées durant la refonte
+### Liste des pages sur lesquels pointent un lien et qui ont été coupées durant la refonte
 J'ai essayé de mapper les pages, mais je vous recommande de valider que j'ai mis les bonnes pages. yen a pas des masses, ca vous prendra 20 minutes max, et les liens fonctionneront tjs.
 
 
