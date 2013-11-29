@@ -24,7 +24,7 @@ http://www.locomotivecms.com/modules/recurring_billing
 > http://www.locomotivecms.com/
 
 http://doc.locomotivecms.com/templates/objects
-> http://doc.locomotivecms.com/guides/create-site-template
+> http://doc.locomotivecms.com/references/api/objects/global-variables
 
 http://www.locomotivecms.com/fr/case-studies/le-wattman
 > http://www.locomotivecms.com/case-studies/le-wattman
@@ -33,7 +33,7 @@ http://www.locomotivecms.com/support/howto/upgrade
 > http://doc.locomotivecms.com/guides/upgrading-engine
 
 http://www.locomotivecms.com/support/themes
-> http://doc.locomotivecms.com/guides/create-site-template
+> http://www.locomotivecms.com/
 
 http://www.locomotivecms.com/support/installation/requirements
 > http://doc.locomotivecms.com/get-started/requirements
@@ -48,7 +48,7 @@ http://www.locomotivecms.com/case-studies/case_study.company_url
 > http://www.locomotivecms.com/case-studies
 
 http://www.locomotivecms.com/sites_running_with_locomotive
-> http://www.locomotivecms.com
+> http://www.locomotivecms.com/case-studies
 
 http://doc.locomotivecms.com/guides/get-started/install-wagon
 > http://doc.locomotivecms.com/get-started/install-wagon
@@ -57,7 +57,7 @@ http://www.locomotivecms.com/crew%22
 > http://www.locomotivecms.com/crew
 
 http://www.locomotivecms.com/templates/support/liquid/logic.liquid
-> http://doc.locomotivecms.com/guides/create-site-template
+> http://doc.locomotivecms.com/references/liquid-language
 
 http://doc.locomotivecms.com/guides/get-started/install-engine
 > http://doc.locomotivecms.com/get-started/install-engine
@@ -90,10 +90,10 @@ http://www.locomotivecms.com/support/installation
 > http://doc.locomotivecms.com/get-started/what-is-locomotivecms
 
 http://www.locomotivecms.com/templates/support/liquid/filters.liquid
-> http://doc.locomotivecms.com/guides/create-site-template
+> http://doc.locomotivecms.com/references/liquid-language
 
 http://www.locomotivecms.com/templates/support/liquid/contents.liquid
-> http://doc.locomotivecms.com/guides/create-site-template
+> http://doc.locomotivecms.com/references/liquid-language
 
 http://doc.locomotivecms.com/installation/requirements
 > http://doc.locomotivecms.com/get-started/requirements
@@ -102,10 +102,10 @@ http://www.locomotivecms.com/support/liquid/site
 > http://doc.locomotivecms.com/references/liquid-language
 
 http://doc.locomotivecms.com/editor/installation
-> http://doc.locomotivecms.com/get-started/create-your-first-site
+> http://doc.locomotivecms.com/get-started/install-wagon
 
 http://www.locomotivecms.com/sup
-> http://www.locomotivecms.com/case-studies
+> http://www.locomotivecms.com
 
 http://doc.locomotivecms.com/installation/getting_started
 > http://doc.locomotivecms.com/get-started/what-is-locomotivecms
@@ -117,7 +117,7 @@ http://www.locomotivecms.com/modules/locomotive-editor
 > http://doc.locomotivecms.com/get-started/install-wagon
 
 http://www.locomotivecms.com/support/installation/engine
-> http://doc.locomotivecms.com/get-started/create-your-first-site
+> http://doc.locomotivecms.com/get-started/install-engine
 
 http://doc.locomotivecms.com/guides/get-started/requirements
 > http://doc.locomotivecms.com/get-started/requirements
@@ -126,4 +126,4 @@ http://www.locomotivecms.com/articles/announcement-2-0-release-candidate
 > http://www.locomotivecms.com/articles
 
 http://www.locomotivecms.com/templates/support/installation/source.liquid
-> http://doc.locomotivecms.com/guides/create-site-template
+> http://doc.locomotivecms.com/references/liquid-language
