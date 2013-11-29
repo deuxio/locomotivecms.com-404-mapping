@@ -15,7 +15,7 @@ http://doc.locomotivecms.com/editor/deployment
 > http://doc.locomotivecms.com/get-started/deployment
 
 http://www.locomotivecms.com/modules/locomotive_editor
-> http://doc.locomotivecms.com/guides/editor-to-wagon
+> http://doc.locomotivecms.com/get-started/install-wagon
 
 http://www.locomotivecms.com/templates/support/liquid/pages.liquid
 > http://doc.locomotivecms.com/references/liquid-language
